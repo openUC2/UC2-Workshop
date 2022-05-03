@@ -16,6 +16,17 @@ Here you are going to learn:
 * **CAD** the full assembly including the description can be found in the [Assembly](https://github.com/openUC2/UC2-GIT/tree/master/APPLICATIONS/APP_INLINE_HOLOGRAM)-folder
 * **SLIDES** for the introduction into holography can be found in the [PRESENTATION](./PRESENTATION/UC2_Holography.pdf)-folder
 
+## Assembly
+
+
+In [this video](https://youtu.be/qtHiDJL6A3o) you will learn how to setup a UC2 system and also how to build the holographic Microscope
+
+<p align="center">
+<a href="https://youtu.be/qtHiDJL6A3o" name="logo"><img src="./IMAGES/YoutubeHolo.png" width="1000"></a>
+</p>
+
+
+
 
 ## Setup
 
