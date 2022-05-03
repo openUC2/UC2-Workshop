@@ -7,6 +7,12 @@ The experiment involves multiple MQTT-able components such as the ```LED-Array``
 The microscope is based on the design found [here](../../APPLICATIONS/APP_Incubator_Microscope)
 
 
+
+https://github.com/openUC2/UC2-Zstage/blob/master/README.md#hardware---motor-driven-z-stage-diy-captive-nema11
+
+
+
+
 ## Steps
 
 1. Setup the microscope using one BOX and the description given in the link above

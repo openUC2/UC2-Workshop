@@ -13,10 +13,10 @@ This repository will give you an extended tour through the UC2 ecosystem. We wil
 
 # Outline
 
-* **GENERAL** Introduction into UC2 (30 min, [==> UC2 General Repo](https://github.com/openUC2/UC2-GIT))
+* **GENERAL** Introduction into UC2 (30 min, [==> UC2 General Repo](https://github.com/openUC2/UC2-GIT), [SLIDES](https://figshare.com/articles/presentation/Untitled_Item/19615560))
 * **RESOURCES**: Repos and Structure (10 min, [==> UC2 Cheatsheet](./UC2_01_GENERAL.md))
 * Hands on experience:
-  * Set up an Inline Holographic (i.e. lensless) Microscope
+  * Set up an Inline Holographic (i.e. lensless) Microscope (30 min, [Documentation: UC2 In-Line HoloMic](./UC2_02_HoloMic.md), [YouTube Tutorial](https://youtu.be/qtHiDJL6A3o))
 * CAD design for creating an insert using Thingiverse/Autodesk Inventor (60 min)
 * **SOFTWARE**: Introduction into ImSwitch
 * Reconstruct holograms with ImSwitch in realtime using the Holo Plugin (30-45 Minutes)
@@ -27,7 +27,7 @@ This repository will give you an extended tour through the UC2 ecosystem. We wil
   * Introduction into the ESP32 and Arduino IDE
   * Flash the code and test the LED array + motor
 * **OPTICS**:
-  * Build the “incubator microscope”/finite corrected microscope by adding the Z-stage
+  * Build the “incubator microscope”/finite corrected microscope by adding the Z-stage (45 min, [UC2_05_IncubatorMic.md](UC2_05_IncubatorMic.md))
   * Swap the camera by a second mirror + eyepiece and use the cellphone as the camera
 
 

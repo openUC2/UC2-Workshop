@@ -15,6 +15,8 @@
   * Early-phase UC2 electronics module: https://github.com/openUC2/UC2_Feather
   * The Firmware for the ESP's and a python client is provided https://github.com/openUC2/UC2-REST
 * **Software:**
+  * [I2K ImSwitch Talk by Xavier](https://www.youtube.com/watch?v=XsbnMkGSPQQ)
+  * [I2K ImSwtich+Uc2 Workshop](https://www.youtube.com/watch?v=7f1XH7lQcgQ&t=3410s)
   * *ImSwitch for UC2* can be found [here](https://github.com/beniroquai/ImSwitch) (*forked version*)
   * UC2-related setup configurations for ImSwitch can be found [here](https://github.com/beniroquai/ImSwitchConfig/)
 
@@ -68,4 +70,4 @@ We provide an online-base [**UC2-configurator**](https://uc2configurator.netlify
 
 ## Smartphone microscope
 
-* to convert the incubator-microscope into a smartphone microscope, you simply need to swap the camera by an eyepiece  (optional: folding mirror) and place the smartphone close to the eyepiece; More information can be found [here](https://github.com/openUC2/UC2-GIT/tree/master/APPLICATIONS/APP_SMARTPHONE_MICROSCOPE) 
+* to convert the incubator-microscope into a smartphone microscope, you simply need to swap the camera by an eyepiece  (optional: folding mirror) and place the smartphone close to the eyepiece; More information can be found [here](https://github.com/openUC2/UC2-GIT/tree/master/APPLICATIONS/APP_SMARTPHONE_MICROSCOPE)
