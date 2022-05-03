@@ -1,4 +1,3 @@
-
 <p align="left">
 <a href="#logo" name="logo"><img src="https://raw.githubusercontent.com/bionanoimaging/UC2-GIT/master/IMAGES/UC2_logo_text.png" width="400"></a>
 </p>
@@ -22,7 +21,6 @@ This repository will give you an extended tour through the UC2 ecosystem. We wil
 | **Tutorial 1** | Get familiar with the MDK | Design your own UC2 insert using Inventor/Thingiverse | [UC2 MDK](https://github.com/openUC2/UC2-GIT/tree/master/MDK) and [UC2 CAD Template](https://github.com/openUC2/UC2-Module-Template) and [UC2 Thingiverse Customizer](https://www.thingiverse.com/thing:4377691)| ca. 20 min |
 |Tutorial 2 | Introduction into ImSwitch | ImSwtich Talk | [YouTube]() | ca. 15 min|
 | **Experiment 3** | Reconstruct holograms | Start ImSwitch with the Holo Plugin |[Documentation](./UC2_02_HoloMic.md)  | (30-45 Minutes)|
-|**Tutorial 3**| Introduction into µControllers| UC2-REST for your open microscope project |[Documentation](./UC2_03_UC2_REST.md)  | (30-45 Minutes) |
 |**Tutorial 3**| Introduction into µControllers| UC2-REST for your open microscope project |[Documentation](./UC2_03_UC2_REST.md)  | (30-45 Minutes) |
 |**Experiment 3**| Introduction into optics /w UC2 | Build your own incubator microscope |[Documentation](./UC2_05_IncubatorMic.md)  | (30-45 min) |
 |**Experiment 4**| Introduction into optics /w UC2 II | Use your cellphone as a camera for the incubator microscope |[Documentation](./UC2_06_smartphoneMic.md)  | (15-30 min) |

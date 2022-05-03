@@ -16,6 +16,24 @@ Here you are going to learn:
 - lensless imaging
 
 
+## Setup
+
+This is what you want to build now:
+
+<p align="left">
+<a href="#logo" name="logo"><img src="./IMAGES/Application_Inline_Holographic_Microscopy_v3.png" width="600"></a>
+</p>
+
+*Ingredients*:
+
+* 1x High Power LED
+* 1x "Pinhole" / Aluminium Foil
+* 1x Sample
+* 1x Camera
+* 2x base plates
+* 2x cubes
+
+
 ## Resources
 
 * **OLD** an earlier (2019) workshop on this matter can be found [here](https://github.com/openUC2/UC2-GIT/tree/master/WORKSHOP/INLINE-HOLOGRAMM)
