@@ -8,6 +8,7 @@
 
 ## Resources
 
+* **TUTORIALS** From a **beginner** to a **professional? This way https://github.com/openUC2/UC2-GIT/tree/master/TUTORIALS
 * **Video:** A recent *MITI RTMFM* **YouTube** seminar describes the current state of the UC2 system [here](https://www.youtube.com/watch?v=Jp5TOqvf7Nc&ab_channel=mitirtmfm).
 * **Paper**: The UC2 paper on Nat. Comm. is [open access](https://go.nature.com/3q3xQFM)
 * **General openUC2 repository** with all kinds of cube-related projects https://github.com/openUC2/
