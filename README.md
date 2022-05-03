@@ -13,66 +13,28 @@ This repository will give you an extended tour through the UC2 ecosystem. We wil
 
 # Outline
 
-* **GENERAL** Introduction into UC2 (30 min, [==> UC2 General Repo](https://github.com/openUC2/UC2-GIT), [SLIDES](https://figshare.com/articles/presentation/Untitled_Item/19615560))
-* **RESOURCES**: Repos and Structure (10 min, [==> UC2 Cheatsheet](./UC2_01_GENERAL.md))
-* Hands on experience:
-  * Set up an Inline Holographic (i.e. lensless) Microscope (30 min, [Documentation: UC2 In-Line HoloMic](./UC2_02_HoloMic.md), [YouTube Tutorial](https://youtu.be/qtHiDJL6A3o))
-* CAD design for creating an insert using Thingiverse/Autodesk Inventor (60 min)
-* **SOFTWARE**: Introduction into ImSwitch
-* Reconstruct holograms with ImSwitch in realtime using the Holo Plugin (30-45 Minutes)
-  * Install the software/start the SOFTWARE
-  * get familiar with ImSwitch
-  * *HINT:* Find a sparse samples e.g. plankton on coverslip would be best, or just dust/sand/cheeck cells
-* **ELECTRONICS**: Introduction into UC2-REST  
-  * Introduction into the ESP32 and Arduino IDE
-  * Flash the code and test the LED array + motor
-* **OPTICS**:
-  * Build the “incubator microscope”/finite corrected microscope by adding the Z-stage (45 min, [UC2_05_IncubatorMic.md](UC2_05_IncubatorMic.md))
-  * Swap the camera by a second mirror + eyepiece and use the cellphone as the camera
+|  |  Topic | Title  |  Links  | Time |
+|---|---|---|---|---|
+|**GENERAL** | Introduction into UC2 | UC2 Repo | https://github.com/openUC2/UC2-GIT | ca. 3 min|
+|  | "" | UC2 TALK Slides | https://figshare.com/articles/presentation/Untitled_Item/19615560 | ca. 30 min|
+| **RESOURCES** | Repos and Structure | UC2 Cheatsheet | [Cheatsheet](./UC2_01_GENERAL.md) | ca. 10 min|
+| **Experiment 1** | Get familiar with the cubes | Set up an Inline Holographic (i.e. lensless) Microscope | [Documentation: UC2 In-Line HoloMic](./UC2_02_HoloMic.md) | ca. 20 min |
+| **Tutorial 1** | Get familiar with the MDK | Design your own UC2 insert using Inventor/Thingiverse | [UC2 MDK](https://github.com/openUC2/UC2-GIT/tree/master/MDK) and [UC2 CAD Template](https://github.com/openUC2/UC2-Module-Template) and [UC2 Thingiverse Customizer](https://www.thingiverse.com/thing:4377691)| ca. 20 min |
+|Tutorial 2 | Introduction into ImSwitch | ImSwtich Talk | [YouTube]() | ca. 15 min|
+| **Experiment 3** | Reconstruct holograms | Start ImSwitch with the Holo Plugin |[Documentation](./UC2_02_HoloMic.md)  | (30-45 Minutes)|
+|**Tutorial 3**| Introduction into µControllers| UC2-REST for your open microscope project |[Documentation](./UC2_03_UC2_REST.md)  | (30-45 Minutes) |
+|**Tutorial 3**| Introduction into µControllers| UC2-REST for your open microscope project |[Documentation](./UC2_03_UC2_REST.md)  | (30-45 Minutes) |
+|**Experiment 3**| Introduction into optics /w UC2 | Build your own incubator microscope |[Documentation](./UC2_05_IncubatorMic.md)  | (30-45 min) |
+|**Experiment 4**| Introduction into optics /w UC2 II | Use your cellphone as a camera for the incubator microscope |[Documentation](./UC2_06_smartphoneMic.md)  | (15-30 min) |
 
 
+## Software Package
 
-(30 Minutes, People in Woods hall, get to know cubes; Things to do in advance: Add LEDs to the insert /w sticky tape; add aluminium foil, find samples on glass coveslip)
+We provide a dropbox with all Windows executables that you need to install in order to use UC2:
 
-
-, need to install the ImSwitch, Drivers Pacakge, all here https://www.dropbox.com/sh/pea63wifrq3edsl/AAChzXEGA55uUt2Kjxxfk_Dka?dl=0 on students/Woodshall laptops, 30-45 minutes)
-Intro into UC2 electronics and ESP32 microcontrollers, LED array and Stepper-related stuff (Bene, 30-45minutes)
-
-Connecting LED array to ImSwitch and make it work (Woodshall People, connect LED Array 3 wires to ESP32, we should have some on site and some will come over too); we should have 5 setups that will be working (ESP32 wemos d1 + cnc shield - pretty much plug and play 1x Ps4 controller; worst case: We flash everything from one computer
-
-
-  (not yet assembled, but I will add pictures Z-stage https://github.com/openUC2/UC2-Zstage#hardware---motor-driven-z-stage-diy-captive-nema11) and the LED array
-
-
-
-  I think this is the end and if people want to do more, they can swap the Thorlabs camera with the Eyepiece + Cellphone bit.
-  What do you think? I can definitely write a more precise protocol to have it better documented - perhaps even record the steps in advance..
-  The tricky bits right now are:
-  Assembly of Z-stage
-  Wiring (LED Matrix)
-  Installation of Software on machines in Woodshall.
-
-
-### DAY 1
-
-[Experiment 0 - Get Familiar](./Experiment_0.md)
-
-[Experiment 1 - Telescope](./Experiment_1.md)
-
-[Experiment 2 - Fourier-Filtering](./Experiment_2.md)
-
-[Experiment 3 - Incubator Microscope](./Experiment_3.md)
-
-
-### DAY 2
-
-[Experiment 4 - Light Sheet](./Experiment_4.md)
-
-[Experiment 5 - Examine the Time-Lapse Series](./Experiment_5.md)
-
-[Experiment 6 - Intro to Image Processing with ImJoy](./Experiment_6.md)
-
-[Experiment 7 - Smartphone Microscopy](./Experiment_7.md)
+<p align="left">
+<a href="https://www.dropbox.com/sh/pea63wifrq3edsl/AAChzXEGA55uUt2Kjxxfk_Dka?dl=0" name="logo"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Dropbox_Icon.svg/86px-Dropbox_Icon.svg.png" width="40"></a>
+</p>
 
 
 

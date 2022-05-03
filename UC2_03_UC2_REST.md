@@ -1,4 +1,24 @@
 ## Experiment – 2
+
+
+
+
+* **ELECTRONICS**: Introduction into UC2-REST  
+  * Introduction into the ESP32 and Arduino IDE
+  * Flash the code and test the LED array + motor
+
+Jjupyter notebook
+
+Build the stage Tutorial
+https://youtu.be/veXASTEofMw
+
+
+
+
+
+
+
+
 Build a device to see the effect of Fourier-filtering (e.g. "ABBE-Experiment")
 
 The idea is to see the effect of Fourier filtering during image formation by placing an aperture inside the back focal plane (BFP) of the imaging lens.

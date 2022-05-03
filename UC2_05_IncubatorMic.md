@@ -1,3 +1,8 @@
+
+<p align="left">
+<a href="#logo" name="logo"><img src="https://raw.githubusercontent.com/bionanoimaging/UC2-GIT/master/IMAGES/UC2_logo_text.png" width="400"></a>
+</p>
+
 ## Experiment – 3 (Incubator Microscope)
 Assemble and setup the incubator microscope
 
@@ -10,7 +15,7 @@ The microscope is based on the design found [here](../../APPLICATIONS/APP_Incuba
 
 https://github.com/openUC2/UC2-Zstage/blob/master/README.md#hardware---motor-driven-z-stage-diy-captive-nema11
 
-
+ https://github.com/openUC2/UC2-Zstage#hardware---motor-driven-z-stage-diy-captive-nema11) and the LED array
 
 
 ## Steps
