@@ -93,3 +93,10 @@ python __main__.py
 ```
 
 For additional information see https://github.com/beniroquai/ImSwitch
+
+
+## ImSwitch + UC2 configurations
+
+ImSwitch is a very modular GUI software that can interact with a number of different hardware components (e.g. XYZ stages, Lasers, different detectors...). For this, ImSwitch relies on dedicated `JSON`-files that construct a setup virtually. We provide ready-made solutions in a dedicated repository. Please have a look here: https://github.com/beniroquai/ImSwitchConfig
+
+Additional information can also be found in the read-the-docs: https://imswitch.readthedocs.io/en/stable/
