@@ -7,6 +7,11 @@
 
 Here you learn how to get the UC2-REST firmware running on the ESP32 in order to work with the ImSwitch Software.
 
+## Presentation
+
+The slides for the theoretical introduction can be found in the [Presentation](./PRESENTATION)-folder. 
+
+
 ## Install necessary software for UC2 rest (flash and interact)
 
 Here you learn how to install the necessary software (Arduino IDE, drivers, ESP-IDF, ARduino libraries) that are necessary for the system to be working.
@@ -39,6 +44,12 @@ Here you learn how to connect the ESP32 to the Arduino IDE, connect external har
 </p>
 
 
-## Control devices using Jupyter Notebooks
+## Control UC2 devices using Jupyter Notebooks
 
-COMMING SOON
+Please have a look [here](https://github.com/openUC2/UC2-REST/blob/master/README.md#python) for more information including the Jupyter Notebook.
+
+## Control UC2 devices using ImSwitch
+
+Please have a look [here](https://github.com/beniroquai/ImSwitch) for more information about how to install ImSwitch and [here](https://github.com/beniroquai/ImSwitchConfig) for the UC2-related setup files including the UC2-REST serial interface.
+
+

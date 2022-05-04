@@ -42,8 +42,9 @@ We provide a dropbox with all Windows executables that you need to install in or
 <a href="https://www.dropbox.com/sh/pea63wifrq3edsl/AAChzXEGA55uUt2Kjxxfk_Dka?dl=0" name="logo"><img src="./IMAGES/autodesk-inventor-logo.png" width="200"></a>
 </p>
 
-All Design files can be found in the folder [INVENTOR](./INVENTOR).
-All 3D printing [STL files](./STL) can be found in the [STL](./STL)
+All Design files for Autodesk Inventor 2022 Student edition can be found in the folder [INVENTOR](./INVENTOR).
+
+All 3D printing [STL files](./STL) can be found in the [STL](./STL).
 
 
 ## Get Involved
