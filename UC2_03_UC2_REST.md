@@ -9,7 +9,7 @@ Here you learn how to get the UC2-REST firmware running on the ESP32 in order to
 
 ## Presentation
 
-The slides for the theoretical introduction can be found in the [Presentation](./PRESENTATION)-folder. 
+The slides for the theoretical introduction can be found in the [Presentation](./PRESENTATION)-folder.
 
 
 ## Install necessary software for UC2 rest (flash and interact)
@@ -26,6 +26,9 @@ Additional github links that provide you with the latest version of the software
 * https://github.com/openUC2/UC2-REST (=> firmware under ESP32/main; compile and flash on your ESP32 board)
 * https://github.com/beniroquai/BenesArduinoLibraries (=> all libraries necessary to compile the software)
 * https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all (=> CH340 drivers for the ESP32 board)
+* Add this to the Arduino IDE to use ESP32 boards https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+
 
 We provide a dropbox with all Windows executables that you need to install in order to use UC2:
 
@@ -51,5 +54,3 @@ Please have a look [here](https://github.com/openUC2/UC2-REST/blob/master/README
 ## Control UC2 devices using ImSwitch
 
 Please have a look [here](https://github.com/beniroquai/ImSwitch) for more information about how to install ImSwitch and [here](https://github.com/beniroquai/ImSwitchConfig) for the UC2-related setup files including the UC2-REST serial interface.
-
-
