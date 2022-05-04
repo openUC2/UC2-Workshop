@@ -17,13 +17,18 @@ This repository will give you an extended tour through the UC2 ecosystem. We wil
 |**GENERAL** | Introduction into UC2 | UC2 Repo | https://github.com/openUC2/UC2-GIT | ca. 3 min|
 |  | "" | UC2 TALK Slides | https://figshare.com/articles/presentation/Untitled_Item/19615560 | ca. 30 min|
 | **RESOURCES** | Repos and Structure | UC2 Cheatsheet | [Cheatsheet](./UC2_01_GENERAL.md) | ca. 10 min|
+||||||
 | **Experiment 1** | Get familiar with the cubes | Set up an Inline Holographic (i.e. lensless) Microscope | [Documentation: UC2 In-Line HoloMic](./UC2_02_HoloMic.md) | ca. 20 min |
 | **Tutorial 1** | Get familiar with the MDK | Design your own UC2 insert using Inventor/Thingiverse | [UC2 MDK](https://github.com/openUC2/UC2-GIT/tree/master/MDK) and [UC2 CAD Template](https://github.com/openUC2/UC2-Module-Template) and [UC2 Thingiverse Customizer](https://www.thingiverse.com/thing:4377691)| ca. 20 min |
-|Tutorial 2 | Introduction into ImSwitch | ImSwtich Talk | [YouTube]() | ca. 15 min|
-| **Experiment 3** | Reconstruct holograms | Start ImSwitch with the Holo Plugin |[Documentation](./UC2_02_HoloMic.md)  | (30-45 Minutes)|
-|**Tutorial 3**| Introduction into µControllers| UC2-REST for your open microscope project |[Documentation](./UC2_03_UC2_REST.md)  | (30-45 Minutes) |
-|**Experiment 3**| Introduction into optics /w UC2 | Build your own incubator microscope |[Documentation](./UC2_05_IncubatorMic.md)  | (30-45 min) |
-|**Experiment 4**| Introduction into optics /w UC2 II | Use your cellphone as a camera for the incubator microscope |[Documentation](./UC2_06_smartphoneMic.md)  | (15-30 min) |
+||||||
+| **Tutorial 2** | Introduction into ImSwitch | ImSwtich Talk | [YouTube](https://www.youtube.com/watch?v=XsbnMkGSPQQ&ab_channel=XavierCasasMoreno) | ca. 15 min|
+| **Experiment 3** | Reconstruct holograms | Start ImSwitch with the Holo Plugin |[Documentation](./UC2_02_HoloMic.md#reconstruction)  | (30-45 Minutes)|
+||||||
+|**Tutorial 3**| Introduction into µControllers| UC2-REST for your open microscope project |[SLIDES](./PRESENTATION/UC2_Electronics.pdf)  | (10-15 Minutes) |
+|**Experiment 3**| Hands on ESP32 | How to interact with the ESP32 through serial in pytho? | [Documentation](./UC2_03_UC2_REST.md)  | (30-45 Minutes) |
+||||||
+|**Experiment 4**| Introduction into optics /w UC2 | Build your own incubator microscope |[Documentation](./UC2_05_IncubatorMic.md)  | (30-45 min) |
+|**Experiment 5**| Introduction into optics /w UC2 II | Use your cellphone as a camera for the incubator microscope |[Documentation](./UC2_06_smartphoneMic.md)  | (15-30 min) |
 
 
 ## Software Package
