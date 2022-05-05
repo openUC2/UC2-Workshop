@@ -17,13 +17,17 @@ To simplify life, we host a dropbox folder containing all the necessary drivers 
 
 ### List of files
 
+*for the UC2-REST*
 - **Arduino IDE:** `arduino-1.8.18-windows.exe`
 - **ESP32 USB driver:** `CH341SER.exe`
+- **UC2 Rest firmware:** `UC2-REST.zip`
+
+*for ImSwitch*
 - **ImSwitch (UC2 version)**: `ImSwitch-master.zip`(2022-05-05)
-- **ImSwitch Configs (UC2 version)**: `ImSwitchConfig-master.zip`(2022-05-05)
-- **NanoImagingPack (Python library)** `nanoimagingpack-master.zip`
+- **ImSwitch Configs (UC2 version)**: `ImSwitchConfig.zip`(2022-05-05)
+- **NanoImagingPack (Python library)** `nanoimagingpack.zip`
 - **Anaconda PYthon distro**: `Anaconda3-2021.11-Windows-x86_64.exe`
-- **Necessary ESP32 libraries** `BenesArduinoLibraries-master.zip`
+- **Necessary ESP32 libraries** `BenesArduinoLibraries.zip`
 - **optional: Teamviewer** `TeamViewer_Setup_x64`
 
 *for the Thorcam:*
@@ -34,7 +38,7 @@ To simplify life, we host a dropbox folder containing all the necessary drivers 
 *if you want to stay up to date*
 - **optional: Github Desktop**: `Git-2.36.0-64-bit.exe`
 - **optional: Github Desktop**: `GitHubDesktopSetup-x64.exe`
-
+- And then fork the repositories and install from there..
 
 ### Installation
 
