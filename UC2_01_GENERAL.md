@@ -36,8 +36,6 @@ Random post about cool-stuff optics ([Twitter @openUC2](https://github.com/openU
 </p>
 
 
-
-
 ## Learning Resources and general Repository structure
 
 The main openUC2 repository ([**GitHub**](https://github.com/openUC2/UC2-GIT))
@@ -61,14 +59,29 @@ We provide an online-base [**UC2-configurator**](https://uc2configurator.netlify
 
 ### In-Line Holographic Microscope
 
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/Application_Inline_Holographic_Microscopy_v3.png" width="300"></a>
+</p>
+
 * an earlier (2019) workshop on this matter can be found [here](https://github.com/openUC2/UC2-GIT/tree/master/WORKSHOP/INLINE-HOLOGRAMM)
 * the full assembly inlcuding the description can be found in the [Assembly](https://github.com/openUC2/UC2-GIT/tree/master/APPLICATIONS/APP_INLINE_HOLOGRAM)-folder
+* The workshop files can be found in the [UC2_02_HoloMic.md](UC2_02_HoloMic.md)-document
 
+### Incubator-contained/finite-corrected microscope
 
-## Incubator-contained/finite-corrected microscope
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/Application_Incubator_Microscope_v2.png" width="300"></a>
+</p>
 
 * the setup including all necessary parts is comprehensively documented in this [folder](https://github.com/openUC2/UC2-GIT/tree/master/APPLICATIONS/APP_Incubator_Microscope)
+* The workshop files can be found in the [UC2_05_IncubatorMic.md](UC2_05_IncubatorMic.md)-document
 
-## Smartphone microscope
+
+### Smartphone microscope
+
+<p align="center">
+<a href="#logo" name="logo"><img src="./IMAGES/Application_smartphone_microscope_Zsample_v3.png" width="300"></a>
+</p>
 
 * to convert the incubator-microscope into a smartphone microscope, you simply need to swap the camera by an eyepiece  (optional: folding mirror) and place the smartphone close to the eyepiece; More information can be found [here](https://github.com/openUC2/UC2-GIT/tree/master/APPLICATIONS/APP_SMARTPHONE_MICROSCOPE)
+* The workshop files can be found in the [UC2_06_smartphoneMic.md](UC2_06_smartphoneMic.md)-document
