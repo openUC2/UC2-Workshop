@@ -13,7 +13,7 @@ This repository will give you an extended tour through the UC2 ecosystem. We wil
 # Outline
 
 |  |  Topic | Title  |  Links  | Time |
-|---|---|---|---|---|
+|-----|---|---|---|---|
 |**GENERAL** | Introduction into UC2 | UC2 Repo | https://github.com/openUC2/UC2-GIT | ca. 3 min|
 |""  | "" | UC2 TALK Slides | https://figshare.com/articles/presentation/Untitled_Item/19615560 | ca. 30 min|
 | **RESOURCES** | Repos and Structure | UC2 Cheatsheet | [Cheatsheet](./UC2_01_GENERAL.md) | ca. 10 min|
